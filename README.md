@@ -1,4 +1,4 @@
 # xinqiao.github.io
 Smart
 
-url:https://xinqiaof4.github.io/
+url:https://xinqiaof4.github.io/escape
